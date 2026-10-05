@@ -4,10 +4,12 @@
 
 Develop an Android application that retrieves **Person data in JSON format from an Internet API** and stores/displays the data using an **SQLite database**.
 
-##screenshots
--
-<img src="7.png" alt="Project Screenshot" width="250">
+#Screenshots
 
+|  |
+| :---: |
+| <img src="7.png" width="250"> |
+-
 
 ## Features
 
