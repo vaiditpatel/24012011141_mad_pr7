@@ -4,6 +4,10 @@
 
 Develop an Android application that retrieves **Person data in JSON format from an Internet API** and stores/displays the data using an **SQLite database**.
 
+##screenshots
+<img src="images/screenshot.png" alt="Project Screenshot" width="500">
+
+
 ## Features
 
 * Fetch Person data from JSON API
